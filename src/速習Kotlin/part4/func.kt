@@ -1,4 +1,4 @@
-package part4
+package 速習Kotlin.part4
 
 import java.util.*
 import java.text.*

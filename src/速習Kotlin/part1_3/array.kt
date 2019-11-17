@@ -1,4 +1,4 @@
-package part1_3
+package 速習Kotlin.part1_3
 
 fun main() {
     var data = arrayOf(1,2,3)
@@ -21,6 +21,4 @@ fun main() {
     //Listも変更可能に→できない！ 書籍が古い？
     var list3 : List<Int> = list2;
 //    list3[1] = 200
-    
-
 }

@@ -1,4 +1,4 @@
-package part6
+package 速習Kotlin.part6
 
 interface Hoge1{
     fun run(){

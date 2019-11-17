@@ -1,4 +1,4 @@
-package part1_3
+package 速習Kotlin.part1_3
 
 fun main() {
     val point = 75

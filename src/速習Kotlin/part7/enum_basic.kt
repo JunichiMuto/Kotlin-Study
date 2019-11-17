@@ -1,4 +1,4 @@
-package part7
+package 速習Kotlin.part7
 
 enum class Season(val value: Int){
     SPRING(1),

@@ -1,4 +1,4 @@
-package part4
+package 速習Kotlin.part4
 
 //inlineを付けるとインライン化できる
 inline fun benchmark(action: ()->Unit):Long{

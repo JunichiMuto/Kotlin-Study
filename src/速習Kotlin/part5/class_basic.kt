@@ -1,4 +1,4 @@
-package part5
+package 速習Kotlin.part5
 
 import java.lang.IllegalArgumentException
 

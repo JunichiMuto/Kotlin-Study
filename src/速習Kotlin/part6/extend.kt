@@ -1,4 +1,4 @@
-package part6
+package 速習Kotlin.part6
 
 //kotlinでは既定で継承ができない（final）openを付けて明示する。
 open class Person(var name:String ="名無しの権兵衛"){

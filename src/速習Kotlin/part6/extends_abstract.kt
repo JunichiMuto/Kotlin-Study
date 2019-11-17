@@ -1,4 +1,4 @@
-package part6
+package 速習Kotlin.part6
 
 //抽象クラス：openの代わりにabstractを使う
 //abstract class Figure(var width: Double, var height: Double){

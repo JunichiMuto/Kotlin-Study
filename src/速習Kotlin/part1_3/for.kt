@@ -1,4 +1,4 @@
-package part1_3
+package 速習Kotlin.part1_3
 
 fun main() {
     val list = arrayOf("花鳥風月", "山紫水明", "百花繚乱")

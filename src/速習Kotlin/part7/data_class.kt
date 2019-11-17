@@ -1,4 +1,4 @@
-package part7
+package 速習Kotlin.part7
 
 data class Book(var title: String = ""){
     var price: Int = 0

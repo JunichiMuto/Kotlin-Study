@@ -1,4 +1,4 @@
-package part7
+package 速習Kotlin.part7
 
 class Person private constructor(var name: String){
     //companionオブジェクトの定義
